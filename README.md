@@ -26,4 +26,4 @@ The Snore Project is a deep/machine learning program designed to analyze and und
 3.  **Holistic Skill Development**: This project is the central piece of a larger academic ecosystem. I plan to integrate it with other class projects: building a web-based interface for data visualization in a web programming course, and managing the server in a Unix programming class. The final goal is to connect all these pieces into a cohesive system.
 
 ---
-Thank you! :grinning_squinting_face:
+Thank you! :grinning_face_with_smiling_eyes:
