@@ -8,11 +8,10 @@ The Snore Project is a deep/machine learning program designed to analyze and und
 * * *
 **Jo Sangyun**
 - :school: **School**: Seoultech University
-- :globe_with_meridians: **Languages**: C, Go,
+- :globe_with_meridians: **Languages**: C, Go
 
 ## Motivation
 * * *
-The primary motivation for this project is to apply deep learning and machine learning techniques to a practical, real-world problem: analyzing sleep quality. I believe these technologies are becoming an essential skill for all developers, and this project is an opportunity to learn and master them.
 
 ## Used Technologies
 * * *
