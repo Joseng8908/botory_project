@@ -2,28 +2,40 @@
 
 ## About This Project
 * * *
-
+- Botory (“Bot + Factory”) is an automation tool that generates and deploys chatbots from a single YAML file. 
+Provide your options and comments in YAML, and Botory takes care of building and deploying the chatbot.
+- It helps developers integrate chatbots quickly without spending time on repetitive non-core tasks.
 
 ## Participants
 * * *
-**Jo Sangyun**
+- Developer: Jo Sangyun
 - :school: **School**: Seoultech University
-- :globe_with_meridians: **Languages**: Go
+- :globe_with_meridians: **Languages**: Go, C, C++
+- :computer: **Skills**: Docker, Linux, Git 
+- :email: **Email**: sengyun8908@naver.com
+- :octocat: **Github**: https://github.com/joseng8908
 
 ## Motivation
 * * *
-- I think 
-
+- In real projects, adopting chatbots often involves too many non-core tasks (configuration, deployment, and operational setup).
+Botory automates these steps so developers can focus on core logic.  
+ 
 ## Used Technologies
 * * *
-- **Go**: The core language for development.
-- **Docker**: 
+- **Go**: Core implementation
+- **Docker**: Packaging and deployment 
 
 ## Project Goals
 * * *
-1.  **Deepen Machine Learning Knowledge**: This project is my first step into the field of deep/machine learning. I aim to gain a solid understanding of fundamental concepts and practical application.
-2.  **Learn Open-Source Collaboration**: I want to move beyond solo projects and learn how to effectively collaborate with other developers. My long-term goal is to become a contributor to major open-source projects like Moby.
-3.  **Holistic Skill Development**: This project is the central piece of a larger academic ecosystem. I plan to integrate it with other class projects: building a web-based interface for data visualization in a web programming course, and managing the server in a Unix programming class. The final goal is to connect all these pieces into a cohesive system.
+- Provide a declarative, YAML-based workflow to automate chatbot creation, build, and deployment.
+- Enable production-ready chatbots from minimal input (YAML only).
+- Gain proficiency in Go and Docker, and release as open source.
 
----
+## Manual
+* * *
+- How to use this project
+- How to contribute to this project
+- How to report issues
+- YAML file format
+- 
 Thank you!😊
