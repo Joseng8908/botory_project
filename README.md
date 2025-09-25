@@ -1,23 +1,23 @@
-# The Snore Project
+# The Botory Project
 
 ## About This Project
 * * *
-The Snore Project is a deep/machine learning program designed to analyze and understand sleep patterns. This project serves as a key part of my academic coursework this semester.
+
 
 ## Participants
 * * *
 **Jo Sangyun**
 - :school: **School**: Seoultech University
-- :globe_with_meridians: **Languages**: C, Go
+- :globe_with_meridians: **Languages**: Go
 
 ## Motivation
 * * *
+- I think 
 
 ## Used Technologies
 * * *
-- **Python**: The core language for development.
-- **Numpy**: For efficient numerical operations and data processing.
-- **Pytorch**: For building and training deep learning models.
+- **Go**: The core language for development.
+- **Docker**: 
 
 ## Project Goals
 * * *
