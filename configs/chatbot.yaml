@@ -4,9 +4,16 @@ defaultResponse: "무슨 말씀이신지 잘 모르겠어요."
 dialogs:
   - keyword: "안녕"
     response: "안녕하세요! 만나서 반가워요."
+    matchType: exact
   
   - keyword: "이름이 뭐야"
     response: "제 이름은 봇토리입니다."
+    matchType: exact
 
   - keyword: "잘가"
     response: "안녕히 가세요!"
+    matchType: exact
+
+  - keyword: "가격"
+    response: "가격은 10,000원입니다!"
+    matchType: contains

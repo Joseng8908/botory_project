@@ -1,0 +1,18 @@
+# Docker Compose 파일의 버전을 명시합니다.
+version: '3.8'
+
+# 실행할 서비스(컨테이너)들을 정의합니다.
+services:
+  # 서비스의 이름을 'botory'로 정합니다.
+  botory:
+    # 현재 디렉터리(.)에 있는 Dockerfile을 사용하여 이미지를 빌드합니다.
+    build: .
+    # 컨테이너의 이름을 'botory_container'로 지정합니다.
+    container_name: botory_container
+    # 포트 매핑: 내 컴퓨터의 8080 포트를 컨테이너의 8080 포트와 연결합니다.
+    ports:
+      - "8080:8080"
+    # 볼륨 매핑: 내 컴퓨터의 ./configs 폴더를 컨테이너 내부의 /app/configs 폴더와 실시간으로 동기화합니다.
+    # 이것이 개발 편의성의 핵심입니다!
+    volumes:
+      - ./configs:/app/configs

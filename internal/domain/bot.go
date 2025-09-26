@@ -9,6 +9,7 @@ type BotConfig struct {
 
 // Dialog는 하나의 키워드와 응답 쌍을 나타냅니다.
 type Dialog struct {
-	Keyword  string `yaml:"keyword"`
-	Response string `yaml:"response"`
+	Keyword   string `yaml:"keyword"`
+	Response  string `yaml:"response"`
+	MatchType string `yaml:"matchType"`
 }
