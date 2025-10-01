@@ -1,5 +1,4 @@
 # Docker Compose 파일의 버전을 명시합니다.
-version: '3.8'
 
 # 실행할 서비스(컨테이너)들을 정의합니다.
 services:
